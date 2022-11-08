@@ -1,0 +1,17 @@
+C:\Kolleg\2.Jahr\POS\VS\56akif_pos-KonstantinTh\ExCollection\ExCollection\bin\Debug\net6.0\ExCollection.exe
+C:\Kolleg\2.Jahr\POS\VS\56akif_pos-KonstantinTh\ExCollection\ExCollection\bin\Debug\net6.0\ExCollection.deps.json
+C:\Kolleg\2.Jahr\POS\VS\56akif_pos-KonstantinTh\ExCollection\ExCollection\bin\Debug\net6.0\ExCollection.runtimeconfig.json
+C:\Kolleg\2.Jahr\POS\VS\56akif_pos-KonstantinTh\ExCollection\ExCollection\bin\Debug\net6.0\ExCollection.dll
+C:\Kolleg\2.Jahr\POS\VS\56akif_pos-KonstantinTh\ExCollection\ExCollection\bin\Debug\net6.0\ExCollection.pdb
+C:\Kolleg\2.Jahr\POS\VS\56akif_pos-KonstantinTh\ExCollection\ExCollection\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Kolleg\2.Jahr\POS\VS\56akif_pos-KonstantinTh\ExCollection\ExCollection\obj\Debug\net6.0\ExCollection.csproj.AssemblyReference.cache
+C:\Kolleg\2.Jahr\POS\VS\56akif_pos-KonstantinTh\ExCollection\ExCollection\obj\Debug\net6.0\ExCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kolleg\2.Jahr\POS\VS\56akif_pos-KonstantinTh\ExCollection\ExCollection\obj\Debug\net6.0\ExCollection.AssemblyInfoInputs.cache
+C:\Kolleg\2.Jahr\POS\VS\56akif_pos-KonstantinTh\ExCollection\ExCollection\obj\Debug\net6.0\ExCollection.AssemblyInfo.cs
+C:\Kolleg\2.Jahr\POS\VS\56akif_pos-KonstantinTh\ExCollection\ExCollection\obj\Debug\net6.0\ExCollection.csproj.CoreCompileInputs.cache
+C:\Kolleg\2.Jahr\POS\VS\56akif_pos-KonstantinTh\ExCollection\ExCollection\obj\Debug\net6.0\ExCollection.csproj.CopyComplete
+C:\Kolleg\2.Jahr\POS\VS\56akif_pos-KonstantinTh\ExCollection\ExCollection\obj\Debug\net6.0\ExCollection.dll
+C:\Kolleg\2.Jahr\POS\VS\56akif_pos-KonstantinTh\ExCollection\ExCollection\obj\Debug\net6.0\refint\ExCollection.dll
+C:\Kolleg\2.Jahr\POS\VS\56akif_pos-KonstantinTh\ExCollection\ExCollection\obj\Debug\net6.0\ExCollection.pdb
+C:\Kolleg\2.Jahr\POS\VS\56akif_pos-KonstantinTh\ExCollection\ExCollection\obj\Debug\net6.0\ExCollection.genruntimeconfig.cache
+C:\Kolleg\2.Jahr\POS\VS\56akif_pos-KonstantinTh\ExCollection\ExCollection\obj\Debug\net6.0\ref\ExCollection.dll
