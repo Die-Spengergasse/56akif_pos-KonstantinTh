@@ -1,0 +1,5 @@
+C:\Users\marti\Downloads\Spg.PluePos.0120221107\Spg.PluePos.01\Spg.PluePos.01.Test\obj\Debug\net6.0\Spg.PluePos.01.Test.csproj.AssemblyReference.cache
+C:\Users\marti\Downloads\Spg.PluePos.0120221107\Spg.PluePos.01\Spg.PluePos.01.Test\obj\Debug\net6.0\Spg.PluePos.01.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Downloads\Spg.PluePos.0120221107\Spg.PluePos.01\Spg.PluePos.01.Test\obj\Debug\net6.0\Spg.PluePos.01.Test.AssemblyInfoInputs.cache
+C:\Users\marti\Downloads\Spg.PluePos.0120221107\Spg.PluePos.01\Spg.PluePos.01.Test\obj\Debug\net6.0\Spg.PluePos.01.Test.AssemblyInfo.cs
+C:\Users\marti\Downloads\Spg.PluePos.0120221107\Spg.PluePos.01\Spg.PluePos.01.Test\obj\Debug\net6.0\Spg.PluePos.01.Test.csproj.CoreCompileInputs.cache
