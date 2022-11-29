@@ -1,0 +1,15 @@
+C:\Kolleg\2.Jahr\POS\VS\56akif_pos-KonstantinTh\Lambda01\Lambda01\bin\Debug\net7.0\Lambda01.exe
+C:\Kolleg\2.Jahr\POS\VS\56akif_pos-KonstantinTh\Lambda01\Lambda01\bin\Debug\net7.0\Lambda01.deps.json
+C:\Kolleg\2.Jahr\POS\VS\56akif_pos-KonstantinTh\Lambda01\Lambda01\bin\Debug\net7.0\Lambda01.runtimeconfig.json
+C:\Kolleg\2.Jahr\POS\VS\56akif_pos-KonstantinTh\Lambda01\Lambda01\bin\Debug\net7.0\Lambda01.dll
+C:\Kolleg\2.Jahr\POS\VS\56akif_pos-KonstantinTh\Lambda01\Lambda01\bin\Debug\net7.0\Lambda01.pdb
+C:\Kolleg\2.Jahr\POS\VS\56akif_pos-KonstantinTh\Lambda01\Lambda01\obj\Debug\net7.0\Lambda01.csproj.AssemblyReference.cache
+C:\Kolleg\2.Jahr\POS\VS\56akif_pos-KonstantinTh\Lambda01\Lambda01\obj\Debug\net7.0\Lambda01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kolleg\2.Jahr\POS\VS\56akif_pos-KonstantinTh\Lambda01\Lambda01\obj\Debug\net7.0\Lambda01.AssemblyInfoInputs.cache
+C:\Kolleg\2.Jahr\POS\VS\56akif_pos-KonstantinTh\Lambda01\Lambda01\obj\Debug\net7.0\Lambda01.AssemblyInfo.cs
+C:\Kolleg\2.Jahr\POS\VS\56akif_pos-KonstantinTh\Lambda01\Lambda01\obj\Debug\net7.0\Lambda01.csproj.CoreCompileInputs.cache
+C:\Kolleg\2.Jahr\POS\VS\56akif_pos-KonstantinTh\Lambda01\Lambda01\obj\Debug\net7.0\Lambda01.dll
+C:\Kolleg\2.Jahr\POS\VS\56akif_pos-KonstantinTh\Lambda01\Lambda01\obj\Debug\net7.0\refint\Lambda01.dll
+C:\Kolleg\2.Jahr\POS\VS\56akif_pos-KonstantinTh\Lambda01\Lambda01\obj\Debug\net7.0\Lambda01.pdb
+C:\Kolleg\2.Jahr\POS\VS\56akif_pos-KonstantinTh\Lambda01\Lambda01\obj\Debug\net7.0\Lambda01.genruntimeconfig.cache
+C:\Kolleg\2.Jahr\POS\VS\56akif_pos-KonstantinTh\Lambda01\Lambda01\obj\Debug\net7.0\ref\Lambda01.dll

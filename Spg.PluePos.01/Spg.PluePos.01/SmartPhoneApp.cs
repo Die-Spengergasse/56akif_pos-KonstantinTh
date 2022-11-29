@@ -53,6 +53,20 @@ namespace Spg.PluePos._01
             return rating;
         }
 
+        public Post? this[string title]
+        {
+            get
+            {
+                foreach (Post p in this)
+                {
+                    if (p.Title == title)
+                    {
+                        return p;
+                    }
+                }
+                return null;
+            }
+        }
 
     }
 }

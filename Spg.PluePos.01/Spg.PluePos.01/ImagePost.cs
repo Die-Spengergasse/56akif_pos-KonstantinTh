@@ -13,7 +13,7 @@ namespace Spg.PluePos._01
 
         public override string Html { get { return $"<h1>{Title}</h1><img src={Url ?? throw new ArgumentNullException("Url war NULL!")} />"; } }
         
-        public ImagePost(string title, string? Url) : base(title)
+        public ImagePost(string title, DateTime created) : base(title, created)
         {}
 
         public ImagePost(string title) : base(title)

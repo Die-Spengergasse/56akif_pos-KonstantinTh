@@ -23,7 +23,7 @@ namespace Spg.PluePos._01
         public TextPost(string title) : base(title)
         {}
 
-        public TextPost(string title, string? content) : base(title)
+        public TextPost(string title, DateTime created) : base(title, created)
         {}
 
     }
