@@ -18,7 +18,7 @@ namespace Lambda01
             Console.WriteLine("Beispiel 3: Division");
             decimal result = LambdaTest.ArithmeticOperation(2, 0, (x, y) => y == 0 ? 0 : (x / y));
             Console.WriteLine(result);
-            result = LambdaTest.ArithmeticOperation(2, 0, (x, y) => (x / y), v => Console.WriteLine(v));
+            result = LambdaTest.ArithmeticOperation(2, 0, (x, y) => (x / y), Console.WriteLine);
             Console.WriteLine(result);
 
             Console.WriteLine("Beispiel 4: Callback Funktion");

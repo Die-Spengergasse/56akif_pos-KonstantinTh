@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Konstantin_Laptop\\Desktop\\Spg.DomainLinQ.App\\Spg.DomainLinQ.App\\Spg.DomainLinQ.App.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Konstantin_Laptop\\Desktop\\Spg.DomainLinQ.App\\Spg.DomainLinQ.App\\Spg.DomainLinQ.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Konstantin_Laptop\\Desktop\\Spg.DomainLinQ.App\\Spg.DomainLinQ.App\\Spg.DomainLinQ.App.csproj",
+        "projectName": "Spg.DomainLinQ.App",
+        "projectPath": "C:\\Users\\Konstantin_Laptop\\Desktop\\Spg.DomainLinQ.App\\Spg.DomainLinQ.App\\Spg.DomainLinQ.App.csproj",
+        "packagesPath": "C:\\Users\\Konstantin_Laptop\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Konstantin_Laptop\\Desktop\\Spg.DomainLinQ.App\\Spg.DomainLinQ.App\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Konstantin_Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[34.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
